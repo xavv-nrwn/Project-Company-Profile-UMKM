@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #faf5ef;
+  --color-cream-soft: #fffcf7;
+  --color-brown: #784d35;
+  --color-brown-deep: #4e3122;
+  --color-charcoal: #222222;
+  --color-copper: #b8703b;
+  --color-copper-deep: #96592d;
+  --color-copper-light: #efd9be;
+
+  --font-display: "Bricolage Grotesque", sans-serif;
+  --font-sans: Inter, sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+}
